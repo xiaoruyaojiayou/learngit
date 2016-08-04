@@ -3,4 +3,4 @@ secondly
 drop 
 hello
 creating a new branch is quick
-creating a new branch is quick & simple
+creat a new branch quick AND simple
